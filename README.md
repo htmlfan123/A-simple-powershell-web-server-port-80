@@ -77,8 +77,4 @@ finally {
 
 ## Contributing
 
-Contributions and improvements are welcome. If you'd like me to add the script file `Simple-Web-Server.ps1` to the repository, a LICENSE, or a CONTRIBUTING guide, tell me which license you prefer and I will add them.
-
-## License
-
-This repository does not include a license by default. If you want an explicit license (for example, MIT), say which one and I will add a LICENSE file.
+Contributions and improvements are welcome.
